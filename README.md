@@ -1,11 +1,11 @@
 
 # Terminal Runner
 
-This project is written in C# and uses the Avalonia UI framework Users can input terminal/shell commands, execute them, and view the output in a color-coded textbox output.
+This project is written in C# and uses the Avalonia UI framework. Users can input terminal/shell commands, execute them, and view the output in a color-coded textbox output.
 
 📌 Features
 * Run terminal commands with arguments.
-* Display stdout and stderr separately with different colors.
+* Display stdout and stderr separately with different colors(green for success, red for failure).
 * Highlight exit codes to indicate command success or failure.
 
 🧪 Testing
