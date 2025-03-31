@@ -5,7 +5,7 @@ This project is written in C# and uses the Avalonia UI framework. Users can inpu
 
 📌 Features
 * Run terminal commands with arguments.
-* Display stdout and stderr separately with different colors(green for success, red for failure).
+* Display stdout and stderr separately with different colors.
 * Highlight exit codes to indicate command success or failure.
 
 🧪 Testing
